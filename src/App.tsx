@@ -9,6 +9,8 @@ function App({}: Props) {
       <h1>Hello world!</h1>
 
       <h3>Welcome to my new project. I code it in WebStorm</h3>
+
+      <h5>Temp text to check WebStorm setting</h5>
     </div>
   )
 }
